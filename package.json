@@ -1,0 +1,13 @@
+{
+  "name": "name_search_agent",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@google/genai": "^1.42.0"
+  }
+}
